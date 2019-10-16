@@ -1,12 +1,7 @@
-#+TITLE: Ultra96 working notes
+#+TITLE: Vivado configuration for ultra96v2
 
-The Ultra96 board is made by Avnet. All of these notes refer to the V2.
+The lastest support version of Vivado with the Avnet board files is 2018.3 (as of <2019-10-16 Wed>). I tried with 2019.1 and it did not work out of the box. 
 
-Avnet documentation can be found here:
-http://zedboard.org/product/ultra96-v2-development-board
-
-
-** board files
 
 All of the Avnet board files for vivado can be found here:
 https://github.com/Avnet/bdf
