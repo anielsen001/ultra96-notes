@@ -5,28 +5,4 @@ The Ultra96 board is made by Avnet. All of these notes refer to the V2.
 Avnet documentation can be found here:
 http://zedboard.org/product/ultra96-v2-development-board
 
-
-** board files
-
-All of the Avnet board files for vivado can be found here:
-https://github.com/Avnet/bdf
-
-#+begin_src sh
-git clone git@github.com:Avnet/bdf.git
-#+end_src
-
-The Ultra96 board files are in bdf/ultra96v2 
-copy the entire ultra96v2 directory to xilinx/Vivado/<ver>/data/boards/board_files
-
-The directory should look like:
-#+begin_src sh
-apn@aria:/usr/local/xilinx/Vivado/2018.3/data/boards$ tree board_files/ultra96v2/
-board_files/ultra96v2/
-└── 1.0
-    ├── board.xml
-    ├── part0_pins.xml
-    ├── preset.xml
-    └── ultra96v2.jpg
-#+end_src
-
-
+[[vivado.org][Vivado configuration]]
