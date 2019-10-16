@@ -2,7 +2,21 @@
 
 The Ultra96 board is made by Avnet. All of these notes refer to the V2.
 
+* Documentation
+
 Avnet documentation can be found here:
 http://zedboard.org/product/ultra96-v2-development-board
 
+96boards references and documentation:
+https://www.96boards.org/product/ultra96/
+
+* Community 
+
+https://www.element14.com/community/community/designcenter/zedboardcommunity/zedboard-forums/ultra96-hardware-design-forum
+
+
+
+* Configuration
+
 [[vivado.org][Vivado configuration]]
+
