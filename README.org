@@ -10,10 +10,17 @@ http://zedboard.org/product/ultra96-v2-development-board
 96boards references and documentation:
 https://www.96boards.org/product/ultra96/
 
+* Accessories
+
+http://zedboard.org/sites/default/files/documentations/Ultra96_Accessories_180502.pdf
+
+https://www.element14.com/community/thread/67743/l/ultra96-accessories
+
+http://www.zedboard.org/content/ultra96-accessories
+
 * Community 
 
 https://www.element14.com/community/community/designcenter/zedboardcommunity/zedboard-forums/ultra96-hardware-design-forum
-
 
 
 * Configuration

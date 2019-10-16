@@ -2,7 +2,6 @@
 
 The lastest support version of Vivado with the Avnet board files is 2018.3 (as of <2019-10-16 Wed>). I tried with 2019.1 and it did not work out of the box. 
 
-
 All of the Avnet board files for vivado can be found here:
 https://github.com/Avnet/bdf
 
@@ -24,4 +23,5 @@ board_files/ultra96v2/
     └── ultra96v2.jpg
 #+end_src
 
-
+My findings are consistent with this thread.
+https://www.element14.com/community/thread/72971/l/has-anyone-used-the-ultra96-rev-1-in-the-20191-toolchain?displayFullThread=true
