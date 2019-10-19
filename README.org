@@ -2,6 +2,22 @@
 
 The Ultra96 board is made by Avnet. All of these notes refer to the V2.
 
+* Getting started
+
+This page has some getting started information:
+https://www.96boards.org/documentation/consumer/ultra96/ultra96-v2/getting-started/
+
+As of <2019-10-18 Fri> the board also ships with a printed insert that has conflicting information.
+Specifically the insert mentions that the included MicroSD card is not formatted,
+while the website says that is pre-flashed and boots linux. The printed insert is 
+correct. The MicroSD card is not formatted at all. Download the [[http://avnet.me/ultra96-v2-oob][MicroSD card image]] 
+to get started.
+
+The photos on the webpage of the board and the described location of the power button
+also differ from the insert. The insert matches the board I received. 
+
+
+
 * Documentation
 
 Avnet documentation can be found here:
@@ -12,6 +28,9 @@ https://www.96boards.org/product/ultra96/
 
 96boards documentation
 https://www.96boards.org/documentation/consumer/ultra96/ultra96-v2/
+
+The website is maintained via github
+https://github.com/96boards/documentation
 
 Troubleshooting and support
 https://www.96boards.org/documentation/consumer/ultra96/ultra96-v2/support/
