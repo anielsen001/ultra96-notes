@@ -1,0 +1,3 @@
+#+TITLE: WiFi Getting Started
+
+Initially connecting to the wifi access point was a challenge. I was trying to use an Android phone, but because the Ultra96 did not provide internet access the phone instead routed connections via the LTE link, not the wifi link. After turning off mobile data, the phone connected just fine. 
