@@ -4,10 +4,7 @@ The Ultra96 board is made by Avnet. All of these notes refer to the V2.
 
 * Getting started
 
-This page has some getting started information:
-https://www.96boards.org/documentation/consumer/ultra96/ultra96-v2/getting-started/
-
-As of <2019-10-18 Fri> the board also ships with a [[images/ultra96v2_insert.jpg][printed insert]] that has conflicting information.
+This [[https://www.96boards.org/documentation/consumer/ultra96/ultra96-v2/getting-started/][96boards page]] has some getting started information. As of <2019-10-18 Fri> the board also ships with a [[http://zedboard.org/sites/default/files/documentations/5365-QSC-ultra96-v2-v3.pdf][printed insert]] and there is an [[http://zedboard.org/sites/default/files/documentations/Ultra96-V2-GSG-v1_1.pdf][Avnet gettng]] started guide that has conflicting information.
 Specifically the insert mentions that the included MicroSD card is not formatted,
 while the website says that is pre-flashed and boots linux. The printed insert is 
 correct. The MicroSD card is not formatted at all. Download the [[http://avnet.me/ultra96-v2-oob][MicroSD card image]] 
@@ -31,6 +28,7 @@ also differ from the insert. The insert matches the [[images/ultra96v2_photo.jpg
 
 Avnet documentation can be found here:
 http://zedboard.org/product/ultra96-v2-development-board
+http://zedboard.org/support/documentation/28476
 
 96boards references and documentation:
 https://www.96boards.org/product/ultra96/
