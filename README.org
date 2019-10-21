@@ -4,23 +4,7 @@ The Ultra96 board is made by Avnet. All of these notes refer to the V2.
 
 * Getting started
 
-This [[https://www.96boards.org/documentation/consumer/ultra96/ultra96-v2/getting-started/][96boards page]] has some getting started information. As of <2019-10-18 Fri> the board also ships with a [[http://zedboard.org/sites/default/files/documentations/5365-QSC-ultra96-v2-v3.pdf][printed insert]] and there is an [[http://zedboard.org/sites/default/files/documentations/Ultra96-V2-GSG-v1_1.pdf][Avnet gettng]] started guide that has conflicting information. Specifically the insert mentions that the included MicroSD card is not formatted,
-while the website says that is pre-flashed and boots linux. The printed insert is 
-correct. The MicroSD card is not formatted at all. Download the [[http://avnet.me/ultra96-v2-oob][MicroSD card image]] 
-to get started.
-
-The Avnet insert and guide have correct information. Everything that follows is based on these.
-
-Unzip and find a pdf with instructions and a disk image. Avnet recommends using 
-[[https://www.balena.io/etcher/][Etcher]] to make the disk image, so I tried it, following the instructions on 
-[[https://github.com/balena-io/etcher#debian-and-ubuntu-based-package-repository-gnulinux-x86x64][their github page for Ubuntu]]. Etcher (run as balena-etcher-electron) is very easy to use, definitely faster than
-using dd.
-
-I also discovered along the way that there are sometimes issues reading a MicroSD card
-through an adaptor on some computer SD card slots. The reader on my laptop has
-these issues, but I can use a USB SD card reader without incident. 
-
-After booting the board with the MicroSD card, I tried connecting to a monitor using a [[https://www.amazon.com/dp/B01FM50QJC/ref=cm_sw_r_cp_ep_dp_U8xKBbXFB92BE][MiniDP to HDMI cable]] recommended [[https://www.element14.com/community/thread/72867/l/ultra96-v2-mini-dp-to-hdmi-adapter][here]], but it does not work for me with the one monitor I tried. I verified that the u96 booted by connecting via [[wifi-gsg.org][wifi]] to 192.168.2.1. 
+[[getting-started.org][Getting Started]]
 
 * Documentation
 
