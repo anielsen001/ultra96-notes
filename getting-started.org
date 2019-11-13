@@ -30,7 +30,21 @@ connect to access point then open connection at http://192.168.2.1
 
 ** Terminal via JTAG/UART connector
 
-*** TODO Test terminal connection via JTAG/UART 
+*** Terminal connection via JTAG/UART 
+
+On Ubuntu your user needs to be in the dialout group to make a serial connection. 
+
+Add your user to the dialout group on ubuntu to connect via serial device:
+#+begin_src sh
+sudo usermod -a -G dialout <user>
+#+end_src
+
+Log back in for the group change to take effect.
+
+Then connect via screen:
+#+begin_src sh
+screen /dev/ttyUSB1 115200
+#+end_src
 
 ** MiniDP/USB keyboard 
 
